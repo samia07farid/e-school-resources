@@ -1,0 +1,171 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-logo img{
+    width: 180px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.all-btn-style{
+    font-family: sans-serif;
+    border: none;
+    color: white;
+    background-color: #21B573;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+.all-btn-style:hover{
+    background-color: #084FC7;
+    color: rgb(17, 16, 16);
+}
+.main-container{
+    background-color: #F0FFF0;
+}
+.navbar-collapse .navbar-nav .nav-item{
+    padding: 0px 20px;
+    transition: all 0.5s ease;
+}
+.navbar-collapse .navbar-nav .nav-item:hover{
+    font-size: 17px;
+    color: black;
+}
+.top-section h5{
+    color: #FD511A;
+    padding-bottom: 10px;
+}
+.top-section h1{
+    font-weight: bold;
+    font-size: 48px;
+}
+.schedule-style{
+    color: #21B573;
+}
+.top-section p{
+    padding-top: 10px;
+    color:#6C6B6B;
+    line-height: 36px; 
+}
+.top-section img{
+    padding: 40px 40px;
+}
+.box-height{
+    height: 300px;
+}
+.e-school-info img{
+    width: 60px;
+}
+.e-school-info h4{
+    padding-top: 20px;
+}
+.e-school-info p{
+    color: #585859;
+}
+.row .book-info:hover{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.row .book-info{
+    transition: 1s ease-in-out;
+}
+.book-info{
+    padding: 50px 10px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.online-courses-section h2{
+    font-weight: bolder;
+    color: #413960;
+    text-align: center;
+}
+.online-courses-section img{
+    width: 310px;
+    padding-top: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-footer img{
+    width: 12px;
+    padding-bottom: 23px;
+}
+.card-footer img.width-icon-2{
+    width: 15px;
+    padding-bottom: 23px;
+}
+.small-icon-style .icon-2{
+    padding-left: 105px;
+}
+.card-deck{
+    margin-top: 50px;
+}
+.Testimonial-section h2{
+    font-weight: bolder;
+    color: #413960;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.Testimonial-section img{
+    width: 100px;
+    transition: all 0.5s ease;
+}
+.Testimonial-section img:hover{
+    width: 110px;
+}
+.Testimonial-section p{
+    color: black;
+    padding-right: 40px;
+    line-height: 30px;
+} 
+.Testimonial-section .row{
+    height: 200px;
+}
+.last-container {
+    height: 380px;
+    padding-top: 30px;
+    background-color: #282531;
+    padding: 30px 30px;
+    color: white;
+}
+.footer-section ul{
+    list-style: none;
+    line-height: 36px;
+}
+.footer-section ul li:first-child{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.footer-section p{
+    font-size: 18px;
+    padding-top: 8px;
+}
+.footer-section ul li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.5s ease;
+}      
+.footer-section ul li a:hover{
+    color: #21B573;
+    font-size: 19px;
+}
+.footer-section .copyright-style{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 75px;
+}
+
+div.book-img-style{
+    padding: 42px 0px;
+}
+
+
